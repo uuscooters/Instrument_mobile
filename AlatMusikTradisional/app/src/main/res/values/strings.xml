@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Instrument music traditional</string>
+    <string name="home">Home</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="nama_instrument">Nama Alat Music</string>
+    <string name="img_instrument">img_instrument</string>
+    <string name="detail_instrument">Detail Instrument</string>
+    <string name="uus_resmana">UUS RESMANA</string>
+    <string name="resmana91_gmail_com">resmana91@gmail.com</string>
+</resources>
